@@ -1,2 +1,2 @@
 # dockerRL
-Docker Files for several softwares of enviroments
+Docker Files for several softwares or conda enviroments
